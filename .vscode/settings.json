@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.vscode": true,
+    "**/node_modules": true,
+    "**/*.log": true,
+    "**/sections/teste.html": true
+  },
+  "editor.wordWrap": "on"
+}
